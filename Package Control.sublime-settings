@@ -1,0 +1,33 @@
+{
+	"installed_packages":
+	[
+		"Additional PHP Snippets",
+		"ApacheConf.tmLanguage",
+		"Bower",
+		"Code Foo",
+		"CoffeeScript",
+		"ColorPicker",
+		"DocBlockr",
+		"Dotfiles Syntax Highlighting",
+		"Emmet",
+		"Emmet Css Snippets",
+		"Goto Documentation",
+		"HTML5",
+		"JavaScript and jQuery API Completions",
+		"jQuery",
+		"LESS",
+		"lioshi Color Scheme",
+		"Markdown Preview",
+		"Nettuts+ Fetch",
+		"Nodejs",
+		"Package Control",
+		"Phpcs",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeREPL",
+		"Theme - Aqua",
+		"Theme - Soda",
+		"TrailingSpaces"
+	]
+}

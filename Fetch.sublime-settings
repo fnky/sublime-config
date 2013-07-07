@@ -1,0 +1,24 @@
+{
+	"files":
+	{
+		"Animate.css": "https://raw.github.com/daneden/animate.css/master/animate.min.css",
+		"DateJS": "http://datejs.googlecode.com/files/date.js",
+		"Eric Meyers CSS Reset (Minified)": "http://www.cssreset.com/downloads/css-resets/eric-meyer-reset-css/eric-meyer-reset.min.css",
+		"HTML5 Doctor Reset (Minified)": "http://www.cssreset.com/downloads/css-resets/html5-doctor-reset-stylesheet/html5-doctor-reset-stylesheet.min.css",
+		"Lesshat - LESS Mixins for CSSHat": "https://raw.github.com/CSSHat/LESSHat/master/lesshat.less",
+		"Normalize": "https://raw.github.com/necolas/normalize.css/master/normalize.css",
+		"Prototype.js": "https://ajax.googleapis.com/ajax/libs/prototype/1.7.0.0/prototype.js",
+		"jQuery": "http://code.jquery.com/jquery.min.js",
+		"klein.php - PHP Router": "https://raw.github.com/chriso/klein.php/master/klein.php",
+		"prefixfree": "https://raw.github.com/LeaVerou/prefixfree/master/prefixfree.min.js",
+		"sammy - PHP version of Ruby Sinatra framework": "https://raw.github.com/BaylorRae/sammy/master/sammy.php"
+	},
+	"packages":
+	{
+		"HTML5 Boilerplate": "https://github.com/h5bp/html5-boilerplate/zipball/master",
+		"Kickstrap": "http://getkickstrap.com/download/",
+		"KleinMode": "file:///Users/iChrille/.codepackages/KleinMode.zip",
+		"Laravel": "http://laravel.com/download/",
+		"Twitter Bootstrap": "http://twitter.github.com/bootstrap/assets/bootstrap.zip"
+	}
+}
